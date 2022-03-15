@@ -1,7 +1,7 @@
 export default {
   key: "todos",
   basePath: '/todos',
-  exclude: false,
+  exclude: true,
   components: [
     {
       name: "FancyBox",
